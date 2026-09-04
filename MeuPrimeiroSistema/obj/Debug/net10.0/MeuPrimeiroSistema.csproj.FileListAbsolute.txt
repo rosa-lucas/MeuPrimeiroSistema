@@ -1,0 +1,14 @@
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.AssemblyInfoInputs.cache
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.AssemblyInfo.cs
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.csproj.CoreCompileInputs.cache
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\bin\Debug\net10.0\MeuPrimeiroSistema.exe
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\bin\Debug\net10.0\MeuPrimeiroSistema.deps.json
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\bin\Debug\net10.0\MeuPrimeiroSistema.runtimeconfig.json
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\bin\Debug\net10.0\MeuPrimeiroSistema.dll
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\bin\Debug\net10.0\MeuPrimeiroSistema.pdb
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.dll
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\refint\MeuPrimeiroSistema.dll
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.pdb
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\MeuPrimeiroSistema.genruntimeconfig.cache
+C:\Users\zname\OneDrive\Documentos\VSCode\MeuPrimeiroSistema\obj\Debug\net10.0\ref\MeuPrimeiroSistema.dll
